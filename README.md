@@ -14,7 +14,7 @@
 
 ### _Star the repo, if you find it helpful ⭐_
 
-_This repository is dedicated to providing a comprehensive library of machine learning models and data visualization techniques. Whether you're a beginner or an experienced, **ML-X** is the place to explore, learn, and contribute._
+This repository is dedicated to providing a comprehensive library of machine learning models and data visualization techniques. Whether you're a beginner or an experienced, **ML-X** is the place to explore, learn, and contribute.
 
 ### You can contribute to this project under Hacktoberfest 2023 ✨
 
