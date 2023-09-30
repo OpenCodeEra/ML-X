@@ -2,15 +2,11 @@
 
 Follow the steps below to setup ML-X in your local system.
 
-## Fork the Repo
-
-Before begin, your first step is to fork the Github Repository [OpenCodeEra/ML-X](https://github.com/OpenCodeEra/ML-X).
-
 ## Clone Repo or Download Files
 
-Now you have to clone the Forked GitHub repository ie. `<Your-Github-Username>/ML-X` or alternatively, you have the option to download the files.
+Before begin, your first step is to clone the Github Repository [OpenCodeEra/ML-X](https://github.com/OpenCodeEra/ML-X) or alternatively, you have the option to download the files.
 
-If you don't know how to clone or where to download the code the watch this video.
+If you don't know how to clone or where to download the code then watch this video.
 
 - [How to Clone a GitHub Repo](https://www.youtube.com/watch?v=CKcqniGu3tA)
 - [Blog on the same topic, official GitHub Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
