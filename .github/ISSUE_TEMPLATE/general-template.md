@@ -9,14 +9,14 @@ assignees: ''
 
 ### Hey 👋, I am a Hacktoberfest'23 contributor 
 
-## Issue Type
-- [ ] Bug 
-- [ ] Feature
-
 ## What ?
 
 <!-- Explain about your model idea and issue here in short -->
 I would like to add / update .... 
+
+- ### Algorithm
+
+- ### Dataset
 
 ## Screenshots
 
